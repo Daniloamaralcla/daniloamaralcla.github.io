@@ -1,0 +1,27 @@
+body{	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROEUL1INCQbC6QVrGDWHR6_3pW3PbVPlmdnA&usqp=CAU"),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLun1QQAhIgpvx4XQdH6JP7_towxDQSN7_z6oAWGVcYDYFc3MXugyRfPk&s=10"),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR697ARkghoM6gZe6AKOaeDs8_sf5cZPIv9S_s8woioxK4fvIrfbfP9Hso&s=10"),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRhFJBhVZC7GD_OsC2jQtJbmKTVJbFhyve4A&usqp=CAU"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvwOykpIWNP_2v0fUkec-MJa36mDd0r-YZTQ&usqp=CAU"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzEah8gHIuMQXS4iPrfyAwF8h_UHoMzTpXw&usqp=CAU"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw_zB2n4SnNwQwX0M_OnFCS0wZcaqLWxARw&usqp=CAU"), url("https://1.bp.blogspot.com/-6xs75YhrF2o/Xxl7mqW8MoI/AAAAAAAAfAA/TekfboCtC88h4ZJPmWjMeu8AogNy-haNgCLcBGAsYHQ/s320/30b8d3a6caab2900ef142805af79bfc9.jpg"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHAKuxoAU-3MrVCy4E3oDPXmpTw-SeR6QFw&usqp=CAU"),url("https://blogpaixaoentrelinhas.files.wordpress.com/2010/03/adriano-selecao.jpg"),url("https://pbs.twimg.com/media/EZ13TZpXQAAYMgI.png"),url("https://cdn.acritica.net/upload/dn_noticia/2020/04/1586373283.jpg"), url("https://tntsports.com.br/__export/1624906208368/sites/esporteinterativo/img/2021/06/28/gettyimages-1324125436.jpg_395778483.jpg");
+background-attachment:fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed,fixed;
+
+background-repeat: repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y,repeat-y;
+
+background-position: 0% 0%,200px 0px,400px 0px,600px 0px,800px 0px,1000px 0px,1200px 0px,1400px 0px,1600px 0px,1800px 0px,2000px 0px, 2200px 0px,2400px 0px;
+
+background-size: 200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px;
+
+background-color: black;
+}
+h1{
+	background-color: black;
+}
+h2{
+	background-color: black;
+}
+
+	h3{
+		background-color: black;
+	}
+	#a{
+		background-color:rgba(0,0,0,0.7);
+	}
+	#b{
+		background-color: black;
+	}
