@@ -25,3 +25,6 @@ h2{
 	#b{
 		background-color: black;
 	}
+ul.a {
+  list-style-type: none;
+}
